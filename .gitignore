@@ -1,0 +1,48 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE 和编辑器
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# 依赖和构建
+node_modules/
+vendor/
+dist/
+build/
+target/
+*.class
+*.jar
+*.war
+
+# 环境文件
+.env
+.env.local
+.env.*.local
+
+# 日志和临时文件
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# 凭据
+credentials.*
+*.pem
+*.key
